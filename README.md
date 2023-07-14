@@ -1,20 +1,19 @@
 # bcguilherme
 
-## Sobre mim
-Sou um entusiasta da Ciência de Dados, apaixonado por explorar dados e extrair insights valiosos. Meu objetivo é aplicar técnicas de aprendizado de máquina e análise de dados para resolver problemas complexos e tomar decisões informadas.
+## About me
+I am a Data Science enthusiast, passionate about exploring data and extracting valuable insights. My goal is to apply machine learning techniques and data analysis to solve complex problems and make informed decisions.
 
-## Habilidades técnicas
-- Linguagens de programação: Python, R, SQL
-- Frameworks e bibliotecas: TensorFlow, scikit-learn, pandas, NumPy
-- Visualização de dados: Matplotlib, Seaborn, Tableau
-- Métodos de aprendizado de máquina: Regressão, Classificação, Agrupamento, Deep Learning
-- Análise exploratória de dados e pré-processamento
+## Technical Skills
+- Programming languages: Python, R, SQL
+- Frameworks and libraries: TensorFlow, scikit-learn, pandas, NumPy
+- Data visualization: Matplotlib, Seaborn, Tableau
+- Machine learning methods: Regression, Classification, Clustering, Deep Learning
+- Exploratory data analysis and preprocessing
 
-## Projetos
-- Análise de Sentimento em Mídias Sociais
-- Previsão de Vendas
+## Projects
+- Sentiment Analysis in Social Media
+- Sales Forecasting
 
-## Contato
-- E-mail: contato.guilhermebc@icloud.com
-- LinkedIn: www.linkedin.com/in/guilhermebcorreia
-
+## Contact
+- Email: contato.guilhermebc@icloud.com
+- LinkedIn: https://www.linkedin.com/in/guilhermebcorreia/
