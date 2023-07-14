@@ -1,4 +1,4 @@
-# Bcguilherme
+# bcguilherme
 
 ## Sobre mim
 Sou um entusiasta da Ciência de Dados, apaixonado por explorar dados e extrair insights valiosos. Meu objetivo é aplicar técnicas de aprendizado de máquina e análise de dados para resolver problemas complexos e tomar decisões informadas.
