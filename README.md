@@ -15,5 +15,6 @@ Sou um entusiasta da Ciência de Dados, apaixonado por explorar dados e extrair 
 - Previsão de Vendas
 
 ## Contato
-- E-mail: guilherme@example.com
-- LinkedIn: [linkedin.com/in/bcguilherme](https://www.linkedin.com/in/bcguilherme)
+- E-mail: contato.guilhermebc@icloud.com
+- LinkedIn: www.linkedin.com/in/guilhermebcorreia
+
