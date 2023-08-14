@@ -1,19 +1,32 @@
-# bcguilherme
+# [Guilherme Barros Correia] - Cientista de Dados
 
-## About me
-I am a Data Science enthusiast, passionate about exploring data and extracting valuable insights. My goal is to apply machine learning techniques and data analysis to solve complex problems and make informed decisions.
+## Sobre Mim
 
-## Technical Skills
-- Programming languages: Python, R, SQL
-- Frameworks and libraries: TensorFlow, scikit-learn, pandas, NumPy
-- Data visualization: Matplotlib, Seaborn, Tableau
-- Machine learning methods: Regression, Classification, Clustering, Deep Learning
-- Exploratory data analysis and preprocessing
+Olá! Sou o Guilherme, um cientista de dados com paixão por explorar e transformar dados em insights acionáveis. Minha abordagem analítica e habilidades técnicas me permitem abordar problemas complexos e gerar valor por meio da ciência de dados.
 
-## Projects
-- Sentiment Analysis in Social Media
-- Sales Forecasting
+## Minha Abordagem
 
-## Contact
-- Email: contato.guilhermebc@icloud.com
+Minha experiência na ciência de dados inclui uma variedade de projetos desafiadores, onde apliquei análise de dados, modelagem preditiva e visualização para resolver problemas reais. Acredito no poder das informações para direcionar decisões estratégicas e melhorar processos.
+
+## Habilidades
+
+- Análise de Dados e Exploração
+- Modelagem Preditiva e Aprendizado de Máquina
+- Visualização de Dados Persuasiva
+- Linguagens: Python, R
+- Manipulação de Dados e SQL
+- Ferramentas: pandas, scikit-learn, matplotlib, Tableau
+
+## Contribuições
+
+Além do meu trabalho em projetos de ciência de dados, contribuo ativamente para a comunidade compartilhando conhecimento por meio de palestras, workshops e artigos. Acredito que o compartilhamento de informações é fundamental para o crescimento coletivo na área de dados.
+
+## Contato
+
 - LinkedIn: https://www.linkedin.com/in/guilhermebcorreia/
+- E-mail: contato.guilhermebc@icloud.com
+
+
+## Licença
+
+Este repositório está sob a licença [MIT](LICENSE).
