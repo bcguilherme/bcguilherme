@@ -1,32 +1,25 @@
-# [Guilherme Barros Correia] - Cientista de Dados
+[Guilherme Barros Correia] - Data Scientist
+About Me
+Hello! I'm Guilherme, a data scientist with a passion for exploring and transforming data into actionable insights. My analytical approach and technical skills allow me to tackle complex problems and generate value through data science.
 
-## Sobre Mim
+My Approach
+My experience in data science includes a variety of challenging projects where I've applied data analysis, predictive modeling, and visualization to solve real-world problems. I believe in the power of data to drive strategic decisions and improve processes.
 
-Olá! Sou o Guilherme, um cientista de dados com paixão por explorar e transformar dados em insights acionáveis. Minha abordagem analítica e habilidades técnicas me permitem abordar problemas complexos e gerar valor por meio da ciência de dados.
+Skills
+Data Analysis and Exploration
+Predictive Modeling and Machine Learning
+Persuasive Data Visualization
+Languages: Python, R
+Data Manipulation and SQL
+Tools: pandas, scikit-learn, matplotlib, Tableau
 
-## Minha Abordagem
+Contributions
+In addition to my work on data science projects, I actively contribute to the community by sharing knowledge through lectures, workshops, and articles. I believe that sharing information is essential for collective growth in the data field.
 
-Minha experiência na ciência de dados inclui uma variedade de projetos desafiadores, onde apliquei análise de dados, modelagem preditiva e visualização para resolver problemas reais. Acredito no poder das informações para direcionar decisões estratégicas e melhorar processos.
+Contact
+LinkedIn:(https://www.linkedin.com/in/guilhermebcorreia/)
+Email: [contato.guilhermebc@icloud.com]
 
-## Habilidades
+License
+This repository is under the MIT license.
 
-- Análise de Dados e Exploração
-- Modelagem Preditiva e Aprendizado de Máquina
-- Visualização de Dados Persuasiva
-- Linguagens: Python, R
-- Manipulação de Dados e SQL
-- Ferramentas: pandas, scikit-learn, matplotlib, Tableau
-
-## Contribuições
-
-Além do meu trabalho em projetos de ciência de dados, contribuo ativamente para a comunidade compartilhando conhecimento por meio de palestras, workshops e artigos. Acredito que o compartilhamento de informações é fundamental para o crescimento coletivo na área de dados.
-
-## Contato
-
-- LinkedIn: https://www.linkedin.com/in/guilhermebcorreia/
-- E-mail: contato.guilhermebc@icloud.com
-
-
-## Licença
-
-Este repositório está sob a licença [MIT](LICENSE).
