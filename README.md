@@ -1,22 +1,16 @@
-# Guilherme Barros Correia
-## Data Scientist | Business Analyst
+Guilherme Barros Correia
+Environmental Manager | Tech Innovator | SaaS Developer
 
+Passionate about technology and sustainability, I am building innovative solutions that integrate environmental management with future-driven business models. Currently focused on developing a SaaS platform to enhance how companies manage their environmental impact.
 
+Skills & Expertise:
 
-### About Me
+Environmental Management & Sustainability
+SaaS Development & Technology Business
+Automation & Smart Integrations
+Data Science & Business Analytics
+Based in Brazil and Europe, working towards a global impact through innovation and technology.
 
-I'm a Data Scientist and Business Analyst with a passion for data analysis, machine learning, and driving insights for businesses.
+Contact: https://www.linkedin.com/in/guilhermebcorreia/
 
-### Skills
-
-- Data Analysis
-- Machine Learning
-- Data Visualization
-- Python
-- R
-- SQL
-
-### Contact
-
-- LinkedIn: [https://www.linkedin.com/in/guilhermebcorreia/]
-- Email: [contato.guilhermebc@icloud.com]
+"Turning environmental challenges into technological opportunities."
